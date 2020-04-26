@@ -32,7 +32,3 @@ It's definitely an iterative process. Data engineers continually reorganize, res
 
 Machine learning includes a lot of data wrangling to create the inputs for machine learning models, but data modeling is more about how to structure data to be used by different people within an organization. You can think of data modeling as the process of designing data and making it available to machine learning engineers, data scientists, business analytics, etc., so they can make use of it easily.
 
-
-## When to use a relational database ?
-
-
