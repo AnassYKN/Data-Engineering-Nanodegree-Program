@@ -39,9 +39,7 @@ Here is how to run this project on the Udacity local mode:
 > INPUT_DATA_SD         = s3://<YOUR_BUCKET_NAME>/song_data/*/*/*/*.json
 > INPUT_DATA_LD         = s3://<YOUR_BUCKET_NAME>/log_data/*/*/*.json
 
-***NOTES**
-- You bucket name is the Master public DNS to your cluster
-- [This video](https://www.youtube.com/watch?v=vS1L11qnoS8) from AWS help me understand the connections, as well as how to view web interfaces on Amazon EMR cluster.
+
 
 2. Unzip 'log-data.zip' and 'song-data.zip'
     - Do this by opening up the Terminal in the Udacity environment, Change Directory (CD) to /home/workspace/data, then type 'unzip log-data.zip' and 'unzip song-data.zip'
